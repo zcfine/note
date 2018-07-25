@@ -10,7 +10,7 @@
 ##### 2.当需要将对象转换成数字时
 
 ```js
-//调用 valueOf(),调用 toString(),若对象结果不是原始值，抛出一个类型错误
+//调用 valueOf(),否则调用 toString(),若对象结果不是原始值，抛出一个类型错误
 //eg：
 > function returnObject() { return 5 }
 > undefined
