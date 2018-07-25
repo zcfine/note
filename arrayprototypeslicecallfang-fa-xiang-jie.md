@@ -1,7 +1,5 @@
 # Array.prototype.slice.call\(\)方法详解
 
-原文链接：[https://www.cnblogs.com/dingxiaoyue/p/4948166.htm](https://www.cnblogs.com/dingxiaoyue/p/4948166.html)
-
 * Array.prototype.slice
 
 slice从字面上的意思很容易理解就是截取， 这方法如何使用呢?
@@ -80,5 +78,5 @@ var toArray = function(s){
 }
 ```
 
-
+原文链接：[https://www.cnblogs.com/dingxiaoyue/p/4948166.htm](https://legacy.gitbook.com/book/zcfine/js/edit#)
 
